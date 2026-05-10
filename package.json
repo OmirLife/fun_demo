@@ -1,0 +1,22 @@
+{
+  "name": "fun_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmirLife/fun_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/OmirLife/fun_demo/issues"
+  },
+  "homepage": "https://github.com/OmirLife/fun_demo#readme"
+}
